@@ -10,6 +10,8 @@ the raw size of the file you upload.
 
 ## The result
 
+**[Play it](https://zednaked.github.io/playable-budget/)** (or [watch it play itself](https://zednaked.github.io/playable-budget/dist/index.webgl.html?autoplay)).
+
 `Bunny Hop`: the bunny bounces on its own, you steer left and right, five coins
 open the end card. CC0 art from Kenney's Jumper Pack.
 
