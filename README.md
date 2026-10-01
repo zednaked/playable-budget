@@ -30,9 +30,9 @@ dist/index.webgl.html  630.1 KB                       share
 Three things the table says:
 
 **The library is the budget, not the art.** 84% of the file is PixiJS, after
-tree-shaking. The game is 3.7 KB. The 181 KB you see quoted for Pixi is the
-brotli transfer of the CDN build; a network that caps the file never sees that
-number.
+tree-shaking. The game is 3.7 KB. The 181 KB often quoted for Pixi is the
+brotli transfer of an older CDN build (v8.6.6); the full `pixi.min.js` of v8.21
+is 809 KB raw, and a network that caps the file only sees the raw number.
 
 **Pixi ships three renderers by default.** `autoDetectRenderer` pulls in WebGL,
 WebGPU and Canvas, and a bundler keeps all three. Stubbing the WebGPU and Canvas
