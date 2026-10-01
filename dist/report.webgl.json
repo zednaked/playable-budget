@@ -1,0 +1,51 @@
+{
+  "total": 645217,
+  "pixi": 541898,
+  "game": 3802,
+  "artBase64": 98248,
+  "artRaw": 73402,
+  "files": [
+    {
+      "name": "bg_layer1",
+      "raw": 21231
+    },
+    {
+      "name": "bg_layer2",
+      "raw": 31069
+    },
+    {
+      "name": "bunny1_jump",
+      "raw": 4928
+    },
+    {
+      "name": "bunny1_stand",
+      "raw": 4667
+    },
+    {
+      "name": "gold_1",
+      "raw": 1991
+    },
+    {
+      "name": "gold_2",
+      "raw": 1693
+    },
+    {
+      "name": "gold_3",
+      "raw": 1513
+    },
+    {
+      "name": "gold_4",
+      "raw": 294
+    },
+    {
+      "name": "ground_grass",
+      "raw": 3470
+    },
+    {
+      "name": "ground_grass_small",
+      "raw": 2546
+    }
+  ],
+  "gzip": 198142,
+  "brotli": 168891
+}

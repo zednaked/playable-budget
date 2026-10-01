@@ -1,0 +1,5 @@
+node_modules/
+src/assets.gen.js
+dist/smoke.png
+dist/godot/
+godot-floor/.godot/

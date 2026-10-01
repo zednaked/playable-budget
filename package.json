@@ -1,0 +1,19 @@
+{
+  "name": "playable-budget",
+  "version": "1.0.0",
+  "description": "A playable ad under the network cap, measured",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "build:webgl": "LEAN=1 node tools/build.mjs",
+    "smoke": "node tools/smoke.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "pixi.js": "^8.21.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "private": true,
+  "license": "MIT"
+}
